@@ -21,3 +21,5 @@ For the Power Button, you will need:
 
 ## Setup
 To get started, the first step is to prototype the circuitry. The schematic below detailed a method of setting up the control circuit.
+
+![alt_text](https://raw.githubusercontent.com/jeffard9/LibreElec_RPi-Addons/master/images/RPi%20Addon%20Schematic.jpg)
